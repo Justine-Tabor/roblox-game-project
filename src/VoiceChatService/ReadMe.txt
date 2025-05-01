@@ -1,0 +1,1 @@
+Set the UseAudioApi to Enabled and Uncheck the EnableDefaultVoice to make the Mics Work in Workspace Folder

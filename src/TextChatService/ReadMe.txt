@@ -1,0 +1,1 @@
+Change the ChatVersion from TextChatService to LegacyChatService
